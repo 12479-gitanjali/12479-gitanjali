@@ -51,12 +51,6 @@ An iOS application prototype built using Swift, focusing on home improvement DIY
 
 ---
 
-### 📊 **Breast Cancer Classification (Python – ML)**
-A project using scikit-learn to classify breast cancer using logistic regression & data visualization.  
-🔗 GitHub: *(link to your repo after upload)*
-
----
-
 ## ✨ What I'm Working On
 - Improving my **Flutter & UI design skills**  
 - Building portfolio-ready mobile apps  
@@ -66,9 +60,8 @@ A project using scikit-learn to classify breast cancer using logistic regression
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: *[your email]*  
-- 📱 Phone: *[your number]*  
-- 🔗 LinkedIn: *(add your link)*  
+- 📧 Email: *gitanjalimah66@gmail.com*  
+- 📱 Phone: *0451374830*  
 - 💼 Portfolio Website (coming soon)
 
 ---
