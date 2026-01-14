@@ -1,7 +1,7 @@
 # Hi, I'm Gitanjali Maharjan 👋  
 ### Mobile Application Developer | Bachelor of IT | Aspiring Software Engineer
 
-I'm a recent **Bachelor of Information Technology (Mobile Application Development)** graduate with a strong passion for building clean, user-friendly mobile applications. I enjoy working with **Flutter, Dart, React Native, Swift, and modern UI design**, and I'm currently expanding my skills in **Data Science** through my postgraduate studies.
+I'm a recent **Bachelor of Information Technology (Mobile Application Development)** graduate with a strong passion for building clean, user-friendly mobile applications. I enjoy working with **Flutter, Dart, React Native, Html, and modern UI design**, and I'm currently expanding my skills in **Data Science** through my postgraduate studies.
 
 ---
 
